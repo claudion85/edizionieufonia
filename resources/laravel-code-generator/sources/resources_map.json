@@ -1,0 +1,42 @@
+[
+    {
+        "model-name": "Casa_Editrice",
+        "resource-file": "casa__editrices.json",
+        "table-name": "casa__editrices"
+    },
+    {
+        "model-name": "Artisti",
+        "resource-file": "artistis.json",
+        "table-name": "artistis"
+    },
+    {
+        "model-name": "Autori",
+        "resource-file": "autoris.json",
+        "table-name": "autoris"
+    },
+    {
+        "model-name": "Categorie",
+        "resource-file": "categories.json",
+        "table-name": "categories"
+    },
+    {
+        "model-name": "SpartitoLibro",
+        "resource-file": "spartito_libros.json",
+        "table-name": "spartito_libros"
+    },
+    {
+        "model-name": "User",
+        "resource-file": "users.json",
+        "table-name": "users"
+    },
+    {
+        "model-name": "AttributiProdotti",
+        "resource-file": "attributi_prodottis.json",
+        "table-name": "attributi_prodottis"
+    },
+    {
+        "model-name": "ProdottiAccessori",
+        "resource-file": "prodotti_accessoris.json",
+        "table-name": "prodotti_accessoris"
+    }
+]
